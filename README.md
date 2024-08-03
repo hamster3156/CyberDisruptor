@@ -12,5 +12,3 @@ https://drive.google.com/drive/folders/1psDiANBRokf86vGYxsoggJJT_T5lbm8_?usp=dri
 
 - 今回のスクリプトについて  
 AnimatorStateMachineを利用したステートパターンを用いたゲーム開発を行いました。Animatorの状態ごとにクラスを用意することによって、クラスの可読性と拡張性を向上させることができました。
-![image](https://github.com/user-attachments/assets/a9417971-a629-468b-afd0-73705f97bfa8)
-
