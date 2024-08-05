@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1MeNa886io-pL4Bw_7xPHlfp2ZuzUhtGS
 
 - 今回のスクリプトについて  
 Arbor3StateMachineを利用してゲーム開発を行いました。  
-![image](https://github.com/user-attachments/assets/d5fa1398-bd63-4449-9752-059aec72fa45)
+![image](https://github.com/user-attachments/assets/d5fa1398-bd63-4449-9752-059aec72fa45)  
 基本的な利点は[AnimatorStateMachine](https://github.com/hamster3156/CyberBlade)と同じですが、
 オブジェクト生成処理やランダム数値生成など簡単な処理をエディタ上で作成することができたり、ステートクラスに
 Awakeの処理やFixedUpdateが用意されているなど、AnimatorStateMachineの痒いところに手が届いていない部分を使いやすくしたステートマシンだと感じました。  
