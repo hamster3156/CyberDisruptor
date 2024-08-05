@@ -27,7 +27,7 @@ Physicにはプレイヤーの当たり判定に関するクラス
 ShiftWeponには高速移動時に投げる武器に関するクラス  
 StateにはGround,Air,Damageなど分割したArborのステートクラス  
 
-- 今回のスクリプトについて  
+- Arborを利用した感想  
 Arbor3StateMachineを利用してゲーム開発を行いました。  
 ![image](https://github.com/user-attachments/assets/d5fa1398-bd63-4449-9752-059aec72fa45)  
 基本的な利点は[AnimatorStateMachine](https://github.com/hamster3156/CyberBlade)と同じですが、
