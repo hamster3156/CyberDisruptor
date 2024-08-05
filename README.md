@@ -9,8 +9,9 @@
 - 制作人数  
 4人  
 
-- 担当箇所  
-プレイヤー操作の開発を行いました。
+- 役割
+プログラマーとして参加し、プレイヤー操作の開発を行いました。  
+[前回の制作では](https://github.com/hamster3156/CyberBlade)プログラマー兼プランナーとしてゲーム開発を行っていましたが、プランナーとしてゲーム企画を考えたり、指示を出すよりも、プログラマーとしてプレイヤーの操作を開発したり、チームメンバーが実装で悩んでいる部分を一緒に考えたりなどプログラマーの方が自身の性格にあっていると考え、今回はプログラマーとして参加しました。  
 
 - 使用技術  
 [AnimatorEvent](https://qiita.com/aimy-07/items/58e77d3396ded286affc)、[Arbor3](https://arbor.caitsithware.com/)、[Cinemachine](https://unity.com/ja/unity/features/editor/art-and-design/cinemachine)、[RaycastVisualization](https://baba-s.hatenablog.com/entry/2022/06/22/090000)、[UniRx](https://github.com/neuecc/UniRx)
