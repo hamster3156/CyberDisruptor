@@ -1,14 +1,10 @@
 # CyberDisruptor
 - 概要  
-[2023年の日本ゲーム対象アマチュア部門](https://awards.cesa.or.jp/2023/amateur/)に向けて開発していた3Dアクションゲームです。
-今回の開発では、[前作](https://github.com/hamster3156/CyberBlade)の開発経験を元に、操作性を上げた3Dアクションゲームを作りたいと思い開発を行いました。
-開発途中では、企画の方向性に悩んだり、チーム内の意見が合わずに開発を続けることが困難な時期もありました。そこで、チームの方向性を合わせるために、企画について話し合う時間を積極的に設けました。それぞれが考えるゲームの完成像を共有し、企画と擦り合わせることで、方向性を修正することができました。長期間の開発で企画が迷走し、最終的に作品を完成させることはできませんでしたが、チームの方向性を修正したり、長期間にわたってチームメンバーと真剣に開発に取り組むことで、非常に良い経験を得ることができました。
+[2023年の日本ゲーム対象アマチュア部門](https://awards.cesa.or.jp/2023/amateur/)に向けて開発していた3Dアクションゲームです。  
+今回の開発では、[前作](https://github.com/hamster3156/CyberBlade)の開発経験を元に、操作性を向上させた3Dアクションゲームを作りたいと考え、開発を行いました。開発途中では、企画の方向性に悩んだり、チーム内の意見が合わずに開発を続けることが困難な時期もありました。そこで、チームの方向性を合わせるために、企画について話し合う時間を積極的に設けました。それぞれが考えるゲームの完成像を共有し、企画と擦り合わせることで、方向性を修正することができました。長期間の開発で企画が迷走し、最終的に作品を完成させることはできませんでしたが、チームの方向性を修正したり、長期間にわたってチームメンバーと真剣に開発に取り組めたことから、非常に良い経験を得ることができました。
 
 - 制作期間  
 2023年2月~2023年12月
-
-- 使用技術  
-[AnimatorEvent](https://qiita.com/aimy-07/items/58e77d3396ded286affc)、[Arbor3](https://arbor.caitsithware.com/)、[Cinemachine](https://unity.com/ja/unity/features/editor/art-and-design/cinemachine)、[DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676?locale=ja-JP)、[RaycastVisualization](https://baba-s.hatenablog.com/entry/2022/06/22/090000)、[UniRx](https://github.com/neuecc/UniRx)  
 
 - 制作ゲームジャンル  
 3Dアクションゲーム  
@@ -17,8 +13,11 @@
 4人  
 
 - 役割  
-今回のプロジェクトでは、プランナー兼プログラマーとしてゲーム開発に関わりました。
+今回のプロジェクトでは、プランナー兼プログラマーとしてゲーム開発に関わりました。  
 プログラマーとして担当した部分はプレイヤーの操作開発です。
+
+- 使用技術  
+[AnimatorEvent](https://qiita.com/aimy-07/items/58e77d3396ded286affc)、[Arbor3](https://arbor.caitsithware.com/)、[Cinemachine](https://unity.com/ja/unity/features/editor/art-and-design/cinemachine)、[DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676?locale=ja-JP)、[RaycastVisualization](https://baba-s.hatenablog.com/entry/2022/06/22/090000)、[UniRx](https://github.com/neuecc/UniRx)  
 
 - Arbor3を利用した感想   
 今回のプロジェクトでは、Arbor3を利用してゲーム開発を行いました。  
