@@ -10,7 +10,7 @@
 - 実行ファイルは以下の場所にあります  
 https://drive.google.com/drive/folders/1MeNa886io-pL4Bw_7xPHlfp2ZuzUhtGS
 
-- フォルダーの内容物について
+- フォルダーの内容について  
 Mainフォルダーにはステートで管理していない入力・地面検知クラスが入っています。  
 Stateフォルダーにはステートクラスが入っています。Ground,Air,Damageの役割ごとにクラスを分割して管理しています。  
 AfterImageフォルダーには残像オブジェクトを生成するクラスが入っています。  
