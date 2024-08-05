@@ -21,6 +21,6 @@ StateフォルダーにはArborのステートクラスが入っています。G
 
 - 今回の制作で工夫した部分
 動画のような残像表現やキャラクターを透明にさせる処理を作成しました。
-AfterImageフォルダーにスクリプトをまとめています。
+AfterImageフォルダーにスクリプトをまとめています。  
 https://github.com/user-attachments/assets/2ee700ee-54b7-41e2-b3c8-da5d5a827438
 
