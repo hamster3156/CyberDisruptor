@@ -4,7 +4,7 @@
 この制作では、私自身が綺麗なソースコードを作りたいと考えるようになったきっかけのプロジェクトで、今回のソースコードでは命名にとても悩んだり、1つのクラスにどれほどの機能を詰め込むべきかを手探りで考えながら実装を行いました。
 
 - 制作期間  
-2023年4月~2023年9月
+2023年2月~2023年9月
 
 - 使用技術  
 [AnimatorEvent](https://qiita.com/aimy-07/items/58e77d3396ded286affc)、[Arbor3](https://arbor.caitsithware.com/)、[Cinemachine](https://unity.com/ja/unity/features/editor/art-and-design/cinemachine)、[DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676?locale=ja-JP)、[RaycastVisualization](https://baba-s.hatenablog.com/entry/2022/06/22/090000)、[UniRx](https://github.com/neuecc/UniRx)  
