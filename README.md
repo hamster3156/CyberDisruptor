@@ -12,7 +12,7 @@
 - 担当箇所  
 プレイヤー操作の開発を行いました。
 
-- 使用技術
+- 使用技術  
 [AnimatorEvent](https://qiita.com/aimy-07/items/58e77d3396ded286affc)、[Arbor3](https://arbor.caitsithware.com/)、[Cinemachine](https://unity.com/ja/unity/features/editor/art-and-design/cinemachine)、[RaycastVisualization](https://baba-s.hatenablog.com/entry/2022/06/22/090000)、[UniRx](https://github.com/neuecc/UniRx)
 
 - 実行ファイルは以下の場所にあります  
