@@ -10,11 +10,14 @@
 - 実行ファイルは以下の場所にあります  
 https://drive.google.com/drive/folders/1eKVdWUGzMPcK_nm64tScOOo2K3SLHSp_?usp=sharing
 
-- フォルダーの内容について  
-Mainフォルダーにはステートで管理していない入力・地面検知クラスが入っています。  
-Stateフォルダーにはステートクラスが入っています。Ground,Air,Damageの役割ごとにクラスを分割して管理しています。  
-AfterImageフォルダーには残像オブジェクトを生成するクラスが入っています。  
-Fadeクラスにはオブジェクトを透明・表示にさせるクラスが入っています。  
+- フォルダーの内容について
+AfterImageには残像オブジェクトを生成するクラス  
+Fadeにはオブジェクトを透明・表示にさせるクラス  
+Mainにはステートで管理していない入力・地面検知クラス   
+ParametorにはプレイヤーのHPや移動速度などのパラメーターを調整できるクラス  
+Physicにはプレイヤーの当たり判定に関するクラス
+ShiftWeponには高速移動時に投げる武器に関するクラス  
+StateにはGround,Air,Damageなど分割したArborのステートクラス  
 
 - 今回のスクリプトについて  
 Arbor3StateMachineを利用してゲーム開発を行いました。  
