@@ -21,7 +21,7 @@
 - Arbor3を利用した感想   
 今回のプロジェクトでは、Arbor3を利用してゲーム開発を行いました。  
 ![image](https://github.com/user-attachments/assets/d5fa1398-bd63-4449-9752-059aec72fa45)  
-基本的な利点は[AnimatorStateMachine](https://github.com/hamster3156/CyberBlade)と似ている部分が多いですが、オブジェクト生成処理やランダム数値生成など簡単な処理をエディタ上で作成することができたり、ステートクラスにAwakeの処理やFixedUpdateが用意されているなど、AnimatorStateMachineの痒いところに手が届いたステートマシンだと利用して感じました。 
+基本的な利点は[AnimatorStateMachine](https://github.com/hamster3156/CyberBlade)と似ている部分が多いですが、オブジェクト生成処理やランダム数値生成など簡単な処理をエディタ上で作成することができたり、ステートクラスにAwakeやFixedUpdateが用意されているなど、AnimatorStateMachineの痒いところに手が届いたステートマシンだと利用して感じました。 
 
 - 今回の制作で工夫した点  
 [動画](https://github.com/user-attachments/assets/2ee700ee-54b7-41e2-b3c8-da5d5a827438)のキャラクターや武器を透明にする処理を作成しました。
