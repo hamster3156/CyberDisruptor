@@ -26,7 +26,4 @@ Awakeの処理やFixedUpdateが用意されているなど、AnimatorStateMachin
 - 今回の制作で工夫した点  
 [動画](https://github.com/user-attachments/assets/2ee700ee-54b7-41e2-b3c8-da5d5a827438)のキャラクターや武器を透明にする処理を作成しました。
 キャラクターや武器の透明・表示処理を作成する上で、最初はMaterialのa値を直接変更していましたが、連続で変更するとMaterialの色がおかしくなる問題がありました。
-そこで、DOTweenのDOFadeを利用して連続で透明・表示の処理実行せず、一度だけ実行する作りにすることでMaterialの表示問題を解決することができました。
- 
-
-
+そこで、DOTweenのDOFadeとAnimatorEventを利用して一度だけ透明・表示処理を行うようにすることでMaterialの表示問題を解決することができました。
