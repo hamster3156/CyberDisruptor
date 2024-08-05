@@ -28,7 +28,7 @@ https://drive.google.com/drive/folders/1eKVdWUGzMPcK_nm64tScOOo2K3SLHSp_?usp=sha
 キャラクターや武器の透明・表示処理を作成する上で、最初はMaterialのa値を直接変更していましたが、連続で変更するとMaterialの色がおかしくなる問題がありました。
 そこで、DOTweenのDOFadeとAnimatorEventを利用して一度だけ透明・表示処理を行うようにすることでMaterialの表示問題を解決することができました。
 
-- フォルダーの内容について
+- フォルダーの内容について  
 AfterImageには残像オブジェクトを生成するクラス  
 Fadeにはオブジェクトを透明・表示にさせるクラス  
 Mainにはステートで管理していない入力・地面検知クラス   
