@@ -27,14 +27,14 @@
 [動画](https://github.com/user-attachments/assets/2ee700ee-54b7-41e2-b3c8-da5d5a827438)のキャラクターや武器の透明・表示処理を作成する上で、最初はMaterialのa値を直接変更していましたが、連続で変更するとMaterialの色がおかしくなる問題がありました。そこで、DOTweenのDOFadeとAnimatorEventを利用して一度だけ透明・表示処理を行うようにすることでMaterialの表示問題を解決することができました。
 
 - Scriptの内容について
-各フォルダーに入ってる簡単な内容の記載です。  
- - AfterImageには残像オブジェクトを生成するクラス  
- - Fadeにはオブジェクトを透明・表示にさせるクラス  
- - Mainにはステートで管理していない入力・地面検知クラス   
-ParametorにはプレイヤーのHPや移動速度などのパラメーターを調整できるクラス  
-Physicにはプレイヤーの当たり判定に関するクラス
-ShiftWeponには高速移動時に投げる武器に関するクラス  
-StateにはGround,Air,Damageなど分割したArborのステートクラス  
+各フォルダーに入ってるクラスの簡単な内容の記載です。  
+| AfterImage | 残像オブジェクトを生成する |             
+| Fade       | オブジェクトを透明・表示にさせる |
+| Main       | ステートで管理していない入力・地面検知 |
+| Parametor  | HPや移動速度などのパラメーターを調整できる |
+| Physic     | 当たり判定に関する |
+| ShiftWepon | 高速移動時に投げる武器に関する |
+| State      | Ground,Air,Damageなど分割したArborステート |
 
 - 実行ファイルは以下の場所にあります  
 https://drive.google.com/drive/folders/1eKVdWUGzMPcK_nm64tScOOo2K3SLHSp_?usp=sharing
