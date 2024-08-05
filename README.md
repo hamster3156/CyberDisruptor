@@ -31,13 +31,13 @@
 
 | フォルダー名 | 機能の簡単な紹介 |
 |:------------:|--------------------------| 
-| AfterImage   | 残像オブジェクトの処理関連 |             
-| Fade         | オブジェクトを透明・表示にさせる |
-| Main         | ステートで管理していない入力・地面検知 |
-| Parametor    | HPや移動速度などのパラメーターを調整できる |
-| Physic       | 当たり判定に関する |
-| ShiftWepon   | 高速移動時に投げる武器に関する |
-| State        | Ground,Air,Damageなど分割したArborステート |
+| AfterImage   | 残像オブジェクトに関連するクラス |             
+| Fade         | オブジェクトを透明・表示にさせるクラス |
+| Main         | ステートで管理していない入力・地面検知などのクラス |
+| Parametor    | HPや移動速度などのパラメーターを調整できるクラス |
+| Physic       | 当たり判定に関するクラス |
+| ShiftWepon   | 高速移動時に投げる武器に関するクラス |
+| State        | Ground,Air,Damageなど分割したArborステートクラス |
 
 - 実行ファイルは以下の場所にあります  
 https://drive.google.com/drive/folders/1eKVdWUGzMPcK_nm64tScOOo2K3SLHSp_?usp=sharing
