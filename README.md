@@ -27,12 +27,11 @@ Physicにはプレイヤーの当たり判定に関するクラス
 ShiftWeponには高速移動時に投げる武器に関するクラス  
 StateにはGround,Air,Damageなど分割したArborのステートクラス  
 
-- Arborを利用した感想  
-Arbor3StateMachineを利用してゲーム開発を行いました。  
+- Arbor3を利用した感想   
+今回のプロジェクトでは、Arbor3を利用してゲーム開発を行いました。  
 ![image](https://github.com/user-attachments/assets/d5fa1398-bd63-4449-9752-059aec72fa45)  
 基本的な利点は[AnimatorStateMachine](https://github.com/hamster3156/CyberBlade)と同じですが、
-オブジェクト生成処理やランダム数値生成など簡単な処理をエディタ上で作成することができたり、ステートクラスに
-Awakeの処理やFixedUpdateが用意されているなど、AnimatorStateMachineの痒いところに手が届いていない部分を使いやすくしたステートマシンだと感じました。  
+オブジェクト生成処理やランダム数値生成など簡単な処理をエディタ上で作成することができたり、ステートクラスにAwakeの処理やFixedUpdateが用意されているなど、AnimatorStateMachineの痒いところに手が届いていない部分を使いやすくしたステートマシンだと利用して感じました。  
 
 - 今回の制作で工夫した点  
 [動画](https://github.com/user-attachments/assets/2ee700ee-54b7-41e2-b3c8-da5d5a827438)のキャラクターや武器を透明にする処理を作成しました。
