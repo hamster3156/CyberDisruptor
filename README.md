@@ -8,7 +8,7 @@
 プレイヤー操作の開発を行いました。  
 
 - 実行ファイルは以下の場所にあります  
-https://drive.google.com/drive/folders/1MeNa886io-pL4Bw_7xPHlfp2ZuzUhtGS
+https://drive.google.com/drive/folders/1eKVdWUGzMPcK_nm64tScOOo2K3SLHSp_?usp=sharing
 
 - フォルダーの内容について  
 Mainフォルダーにはステートで管理していない入力・地面検知クラスが入っています。  
