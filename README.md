@@ -6,18 +6,17 @@
 - 制作期間  
 2023年4月~2023年9月
 
+- 使用技術  
+[AnimatorEvent](https://qiita.com/aimy-07/items/58e77d3396ded286affc)、[Arbor3](https://arbor.caitsithware.com/)、[Cinemachine](https://unity.com/ja/unity/features/editor/art-and-design/cinemachine)、[RaycastVisualization](https://baba-s.hatenablog.com/entry/2022/06/22/090000)、[UniRx](https://github.com/neuecc/UniRx)  
+
+- 制作ゲームジャンル  
+3Dアクションゲーム  
+
 - 制作人数  
 4人  
 
 - 役割  
-プログラマーとして参加し、プレイヤー操作の開発を行いました。  
-[前回の制作](https://github.com/hamster3156/CyberBlade)ではプログラマー兼プランナーとしてゲーム開発を行っていましたが、プランナーとして企画を考えたり指示を出すよりも、プログラマーとして機能を実装したり、チームメンバーが実装で悩んでいる部分を一緒に考えて解決に導いたりなど、プログラマーの方が自身の性格にあっていると考え、プログラマーとして参加しました。  
-
-- 使用技術  
-[AnimatorEvent](https://qiita.com/aimy-07/items/58e77d3396ded286affc)、[Arbor3](https://arbor.caitsithware.com/)、[Cinemachine](https://unity.com/ja/unity/features/editor/art-and-design/cinemachine)、[RaycastVisualization](https://baba-s.hatenablog.com/entry/2022/06/22/090000)、[UniRx](https://github.com/neuecc/UniRx)
-
-- 実行ファイルは以下の場所にあります  
-https://drive.google.com/drive/folders/1eKVdWUGzMPcK_nm64tScOOo2K3SLHSp_?usp=sharing
+[前回の制作](https://github.com/hamster3156/CyberBlade)ではプログラマー兼プランナーとしてゲーム開発を行っていましたが、プランナーとして企画を考えたり指示を出すよりも、プログラマーとして機能を実装したり、チームメンバーが実装で悩んでいる部分を一緒に考えて解決に導いたりなど、プログラマーの方が自身の性格にあっていると考えプログラマーとして参加し、プレイヤー操作の開発を行いました。  
 
 - Arbor3を利用した感想   
 今回のプロジェクトでは、Arbor3を利用してゲーム開発を行いました。  
@@ -36,4 +35,7 @@ Mainにはステートで管理していない入力・地面検知クラス
 ParametorにはプレイヤーのHPや移動速度などのパラメーターを調整できるクラス  
 Physicにはプレイヤーの当たり判定に関するクラス
 ShiftWeponには高速移動時に投げる武器に関するクラス  
-StateにはGround,Air,Damageなど分割したArborのステートクラス
+StateにはGround,Air,Damageなど分割したArborのステートクラス  
+
+- 実行ファイルは以下の場所にあります  
+https://drive.google.com/drive/folders/1eKVdWUGzMPcK_nm64tScOOo2K3SLHSp_?usp=sharing
