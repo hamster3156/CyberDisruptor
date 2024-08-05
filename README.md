@@ -17,4 +17,10 @@ Arbor3StateMachineを利用してゲーム開発を行いました。
 オブジェクト生成処理やランダム数値生成など簡単な処理をエディタ上で作成することができたり、ステートクラスに
 Awakeの処理やFixedUpdateが用意されているなど、AnimatorStateMachineの痒いところに手が届いていない部分を使いやすくしたステートマシンだと感じました。  
 Mainフォルダーにはステートで管理していない入力・地面検知クラスが入っています。  
-StateフォルダーにはArborのステートクラスが入っていて、Ground,Air,Damageの役割ごとにクラスを分割して管理しています。
+StateフォルダーにはArborのステートクラスが入っています。Ground,Air,Damageの役割ごとにクラスを分割して管理しています。
+
+- 今回の制作で工夫した部分
+動画のような残像表現やキャラクターを透明にさせる処理を作成しました。
+AfterImageフォルダーにスクリプトをまとめています。
+https://github.com/user-attachments/assets/2ee700ee-54b7-41e2-b3c8-da5d5a827438
+
