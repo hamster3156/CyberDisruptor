@@ -11,7 +11,7 @@
 
 - 役割  
 プログラマーとして参加し、プレイヤー操作の開発を行いました。  
-[前回の制作](https://github.com/hamster3156/CyberBlade)ではプログラマー兼プランナーとしてゲーム開発を行っていました。あれからプランナーとして企画を考えたり指示を出すよりも、プログラマーとして機能を実装したり、チームメンバーが実装で悩んでいる部分を一緒に考えて答えを探しだしたりなどプログラマーの方が自身の性格にあっていると考え、プログラマーとして参加しました。  
+[前回の制作](https://github.com/hamster3156/CyberBlade)ではプログラマー兼プランナーとしてゲーム開発を行っていましたが、プランナーとして企画を考えたり指示を出すよりも、プログラマーとして機能を実装したり、チームメンバーが実装で悩んでいる部分を一緒に考えて解決に導いたりなど、プログラマーの方が自身の性格にあっていると考え、プログラマーとして参加しました。  
 
 - 使用技術  
 [AnimatorEvent](https://qiita.com/aimy-07/items/58e77d3396ded286affc)、[Arbor3](https://arbor.caitsithware.com/)、[Cinemachine](https://unity.com/ja/unity/features/editor/art-and-design/cinemachine)、[RaycastVisualization](https://baba-s.hatenablog.com/entry/2022/06/22/090000)、[UniRx](https://github.com/neuecc/UniRx)
